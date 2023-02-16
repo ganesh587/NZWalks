@@ -17,4 +17,5 @@ namespace NZWalks.Models.Domain
         // Navigation property
         public List<User_Role> UserRoles { get; set; }
     }
+
 }
